@@ -1,1 +1,3 @@
-# weighted
+The project that is created in Visual Studio is available in the files. The project can be opened either using the "Open in Visual Studio" button or downloading the ZIP file and opening the project file. cpp code files for the directed weighted graph implementation and its tests are also available for other compilers. However, the integration of Google Test may be a problem in this case. 
+The weighted_graph.vcxproj is the project file for the directed weighted graph and Dijkstra's algorithm. The purpose of the project is to implement necessary class and its member functions, including the shortest path algorithm, in order to create the graph. The main code initializes the graph, creates the necessary nodes and edges with the weights that are given in the code challenge.
+The test_graph.vcxproj is the project that includes the weighted graph project as well as the additional Google Test project to test the functions that are implemented in this challenge.
